@@ -1,6 +1,6 @@
 # PayPalEmailValid
 PayPal Email Validator : Check is Email registered in PayPal<br>
-`Support on Windows 10 and Linux Operating system Only`
+`Support on Windows 10 and Linux Operating system Only`<br>
 **Requirements**
 
 * Download Xampp for Linux 7.2.11 / PHP 7.2.11 : `https://www.apachefriends.org/download.html`<br/>
