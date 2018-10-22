@@ -3,7 +3,7 @@ PayPal Email Validator : Check is Email registered in PayPal
 
 ##  Requirment
 
-* Download Lampp Linux : `https://www.apachefriends.org/download.html`<br/>
+* Download Xampp for Linux 7.2.11 / PHP 7.2.11 : `https://www.apachefriends.org/download.html`<br/>
 (if u use windows 10 , install lampp in Ubuntu Terminal)
 
 * Move The `darknethost.so` file `to \opt\lampp\lib\php\extensions\no-debug-*`
