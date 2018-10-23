@@ -28,4 +28,5 @@ Catch-all Address = Delivered
 ```
 **Notes**
 <br>
-`Kami tidak bertanggung jawab atas kegiatan yang dilakukan oleh Pengguna dan tidak dapat dimintai pertanggungjawaban oleh siapa pun berkaitan dengan kerugian yang diderita pihak lain sebagai akibat perbuatan Pengguna. (We are not responsible for activities carried out by the User and cannot be held accountable by anyone relating to losses suffered by other parties as a result of User actions)`
+`Kami tidak bertanggung jawab atas kegiatan yang dilakukan oleh Pengguna dan tidak dapat dimintai pertanggungjawaban oleh siapa pun berkaitan dengan kerugian yang diderita pihak lain sebagai akibat perbuatan Pengguna. `<br><br>
+`We are not responsible for activities carried out by the User and cannot be held accountable by anyone relating to losses suffered by other parties as a result of User actions.`
