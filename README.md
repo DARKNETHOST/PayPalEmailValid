@@ -27,4 +27,5 @@ Email Address OK = Delivered Email
 Catch-all Address = Delivered
 ```
 **Notes**
+<br>
 `Kami tidak bertanggung jawab atas kegiatan yang dilakukan oleh Pengguna dan tidak dapat dimintai pertanggungjawaban oleh siapa pun berkaitan dengan kerugian yang diderita pihak lain sebagai akibat perbuatan Pengguna`
