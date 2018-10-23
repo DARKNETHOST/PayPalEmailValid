@@ -18,7 +18,7 @@ PayPal Email Validator : Check is Email registered in PayPal<br><br>
 `localhost/paypal/paypal.php?email=test@yahoo.com`
 
 **Update Log**
-* Added NeverBounce Checker
+* [10/24/2018 06:35 AM] Added NeverBounce Checker
 ```ini
 [Result Status]
 
