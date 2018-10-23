@@ -16,3 +16,13 @@ PayPal Email Validator : Check is Email registered in PayPal<br><br>
 
 * put paypal.php to htdocs folder and call paypal.php from browser.<br/>
 `localhost/paypal/paypal.php?email=test@yahoo.com`
+
+**Update Log**
+* Added NeverBounce Checker
+```ini
+[Result Status]
+
+Email Address Bounced = Bounced Email
+Email Address OK = Delivered Email
+Catch-all Address = Delivered
+
