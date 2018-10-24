@@ -1,6 +1,7 @@
 # PayPalEmailValid
 PayPal Email Validator : Check is Email registered in PayPal<br><br>
-`Support on Windows 10 and Linux Operating system Only`<br><br>
+> Support on Windows 10 and Linux Operating system Only
+<br><br>
 **Requirements**
 
 * Download Xampp for Linux 7.2.11 / PHP 7.2.11 : `https://www.apachefriends.org/download.html`<br/>
@@ -31,4 +32,4 @@ Catch-all Address = Delivered
 `Kami tidak bertanggung jawab atas kegiatan yang dilakukan oleh Pengguna dan tidak dapat dimintai pertanggungjawaban oleh siapa pun berkaitan dengan kerugian yang diderita pihak lain sebagai akibat perbuatan Pengguna. `<br><br>
 `We are not responsible for activities carried out by the User and cannot be held accountable by anyone relating to losses suffered by other parties as a result of User actions.`<br><br>
 **DONATION**<br>
-*`Bitcoin : 1u3Q3B7MCmLDMK2nYzeppAMDLJkB5LxGB`
+> Bitcoin : 1u3Q3B7MCmLDMK2nYzeppAMDLJkB5LxGB
